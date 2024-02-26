@@ -1,1 +1,1 @@
-print('zalupa')
+print('test')
